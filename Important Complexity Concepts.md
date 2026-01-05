@@ -24,13 +24,15 @@ Sustainable [[Emergence]] (Stable/Evolutionary)
 
 Interplay between Coherence/Consistancy, [[Experiment]], and [[Knowledge]]
 
+[[Cynefin framework]]
+
 messy coherence in light of persistence over consistency
 
 [[Signal]] vs [[Noise]]
 
 [[Abstraction]] and [[Granularity]] (Also an emerging field - no pun intended - called [[Granular computation]])
 
-[[Attention]] as emergence
+[[Attention]] as [[Emergence]]
 
 [[Directed Acyclic Graph]]
 
