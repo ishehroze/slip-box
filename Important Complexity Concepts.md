@@ -1,54 +1,57 @@
 # Important Complexity Concepts
 
-[[Feedback loop]] & Q-R-N
+- [[Feedback loop]] & Q-R-N
+- [[Positive reinforcement loop]]
 
-[[Positive reinforcement loop]]
+- [[Eigenvector]] and [[Eigenvalue]]
 
-[[Eigenvector]] and [[Eigenvalue]]
+- [[Power law]] and the more frequent outliers ("Fat" Tail Behavior or the Black Swan)
+- [[Power law]] and [[Black swan]]
 
-[[Power law]] and the more frequent outliers ("Fat" Tail Behavior or the Black Swan)
+- [[Sigmoid curve]]
 
-[[Sigmoid curve]]
+- [[Self-organising criticality]]
 
-[[Self-organising criticality]]
+- [[Golden ratio]] (phi), the most irrational number
 
-[[Golden ratio]] (phi), the most irrational number
+- [[Novelty]] vs. [[Familiarity]] ratio (phi:1)
+- [[Practice]] vs. [[Theory]] ratio (phi:1)
 
-[[Novelty]] vs. [[Familiarity]] ratio (phi:1)
-[[Practice]] vs. [[Theory]] ratio (phi:1)
+- Unsustainable [[Emergence]] (Transient/Collapsing)
+- Sustainable [[Emergence]] (Stable/Evolutionary)
 
-Unsustainable [[Emergence]] (Transient/Collapsing)
-Sustainable [[Emergence]] (Stable/Evolutionary)
+- [[Entropy]] Negentropy and Requisite inefficiency
 
-[[Entropy]] Negentropy and Requisite inefficiency
+- Interplay between Coherence/Consistancy, [[Experiment]], and [[Knowledge]]
 
-Interplay between Coherence/Consistancy, [[Experiment]], and [[Knowledge]]
+- [[Cynefin framework]]
 
-[[Cynefin framework]]
+- messy coherence in light of [[Persistence]] over consistency
 
-messy coherence in light of persistence over consistency
+- [[Signal]] vs [[Noise]]
 
-[[Signal]] vs [[Noise]]
+- [[Abstraction]] and [[Granularity]] (Also an emerging field - no pun intended - called [[Granular computation]])
 
-[[Abstraction]] and [[Granularity]] (Also an emerging field - no pun intended - called [[Granular computation]])
+- [[Attention]] as [[Emergence]]
 
-[[Attention]] as [[Emergence]]
+- [[Directed Acyclic Graph]] and [[Flow]]
 
-[[Directed Acyclic Graph]]
-
-***The Abstraction-Emergence Loop***: Emergence moves from simple rules to complex behavior, while abstraction moves from complex behavior to simple laws. Attention manages this loop by "dialing down" granularity and "dialing up" abstraction, allowing novelty to emerge.
+- ***The Abstraction-Emergence Loop***: Emergence moves from simple rules to complex behavior, while abstraction moves from complex behavior to simple laws. Attention manages this loop by "dialing down" granularity and "dialing up" abstraction, allowing novelty to emerge.
 
 -------------------
 
-Stuart Kauffman [[Adjacent possible]]
-Functional closure
-LIFE => collectively auto-catalyctic sets
-
-crystal seeding and attractors
+- Stuart Kauffman [[Adjacent possible]]
+    - Functional closure
+    - LIFE => collectively auto-catalyctic sets
+    - crystal seeding and attractors
+    - can rule out [[Morphic resonance]]
 
 ---
 
-the [[Universe]] does not just "prefer" a [[Flow]] state—it is arguably defined by its pursuit of it. This phenomenon is formally governed by the [[Constructal law]], which states that for any flow system to persist in time, it must evolve in such a way that it provides easier and easier access to its currents. 
+[[Universe]], [[Constructal law]], and [[Flow]]
+[[Scientific method]] and [[Flow]]
+[[Constructal law]] vs. [[Entropy]]
+[[Constructal law]] and [[Power law]] connection
 
 ---
 
@@ -65,17 +68,18 @@ prevent circular (falsifiability)
 
 Removing the perpendicular in favor of parallel : straightening
 
-indivisible stochastic process
-
----
-[[Ontology]] and [[Epistemology]]
-Bridging [[Ontology]] and [[Epistemology]] with [[Experiment]]
-[[Ontological Emergence]] vs. [[Epistemological Emergence]]
-Types of [[Ontological Emergence]]: [[Transformational Emergence]] and the more radical [[Fusion Emergence]]
-[[Intuitionism]] for Computer Science and [[]]
-[[Immanuel Kant]] and [[Ibn Al Haytham]] overlap
 ---
 
-SIDE NOTE
-Purpose fuels persistence
+- [[Indivisible stochastic process]]
+- [[Spontaneous Symmetry Breaking]] and [[Emergence]]
+
+---
+- [[Ontology]] and [[Epistemology]]
+- Bridging [[Ontology]] and [[Epistemology]] with [[Experiment]]
+- [[Ontological Emergence]] vs. [[Epistemological Emergence]]
+- Types of [[Ontological Emergence]]: [[Transformational Emergence]] and the more radical [[Fusion Emergence]]
+- [[Immanuel Kant]] and [[Ibn Al Haytham]] overlap
+---
+
+- [[Purpose]] fuels [[Persistence]]
 
