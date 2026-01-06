@@ -69,8 +69,11 @@ indivisible stochastic process
 
 ---
 [[Ontology]] and [[Epistemology]]
+Bridging [[Ontology]] and [[Epistemology]] with [[Experiment]]
 [[Ontological Emergence]] vs. [[Epistemological Emergence]]
 Types of [[Ontological Emergence]]: [[Transformational Emergence]] and the more radical [[Fusion Emergence]]
+[[Intuitionism]] for Computer Science and [[]]
+[[Immanuel Kant]] and [[Ibn Al Haytham]] overlap
 ---
 
 SIDE NOTE
