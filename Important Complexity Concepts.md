@@ -68,6 +68,9 @@ Removing the perpendicular in favor of parallel : straightening
 indivisible stochastic process
 
 ---
+[[Ontology]] and [[Epistemology]]
+[[Ontological Emergence]] vs. [[Epistemological Emergence]]
+Types of [[Ontological Emergence]]: [[Transformational Emergence]] and the more radical [[Fusion Emergence]]
 ---
 
 SIDE NOTE
