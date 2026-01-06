@@ -25,6 +25,7 @@
 - Interplay between Coherence/Consistancy, [[Experiment]], and [[Knowledge]]
 
 - [[Cynefin framework]]
+- [[Safe-to-fail probe]]
 
 - messy coherence in light of [[Persistence]] over consistency
 
