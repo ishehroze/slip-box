@@ -21,8 +21,9 @@
 - Unsustainable [[Emergence]] (Transient/Collapsing)
 - Sustainable [[Emergence]] (Stable/Evolutionary)
 
-- [[Entropy]] Negentropy and Requisite inefficiency
-
+- [[Entropy]] Negentropy and [[Requisite inefficiency]]
+- High power density and adaptability of liquids at the price of 
+[[Requisite inefficiency]]
 - Interplay between Coherence/Consistancy, [[Experiment]], and [[Knowledge]]
 
 - [[Cynefin framework]]
