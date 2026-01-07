@@ -73,7 +73,7 @@ Removing the perpendicular in favor of parallel : straightening
 
 ---
 
-- [[Indivisible stochastic process]]
+- [[Indivisible stochastic process]] and [[Event sourcing]]
 - [[Spontaneous Symmetry Breaking]] and [[Emergence]]
 
 ---
