@@ -91,6 +91,7 @@ Removing the perpendicular in favor of parallel : straightening
 - [[Purpose]], [[Lean]], [[Perfection]] 
 - [[Purpose]] fuels [[Persistence]]
 ---
+- Near vs. Close
 - D-N-W vs. Q-R-B
 - [[Dunya]] and [[Perception]]
 - [[Diversity]] and overcoming limitations of [[Perception]]
