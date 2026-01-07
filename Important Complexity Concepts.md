@@ -23,7 +23,7 @@
 
 - [[Entropy]] Negentropy and [[Requisite inefficiency]]
 - High power density and adaptability of liquids at the price of 
-[[Requisite inefficiency]]
+- [[Requisite inefficiency]]
 - Interplay between Coherence/Consistancy, [[Experiment]], and [[Knowledge]]
 
 - [[Cynefin framework]]
@@ -88,6 +88,6 @@ Removing the perpendicular in favor of parallel : straightening
 
 ---
 - We don't do anything that we don't strictly need
-- [[[Purpose]], [Lean]], [[Perfection]] 
+- [[Purpose]], [[Lean]], [[Perfection]] 
 - [[Purpose]] fuels [[Persistence]]
 
