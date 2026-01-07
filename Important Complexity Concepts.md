@@ -78,6 +78,7 @@ Removing the perpendicular in favor of parallel : straightening
 
 ---
 - [[Ontology]] and [[Epistemology]]
+- [[Consciousness]] as the bridge between [[Ontology]] and [[Epistemology]]
 - Bridging [[Ontology]] and [[Epistemology]] with [[Experiment]]
 - [[Ontological Emergence]] vs. [[Epistemological Emergence]]
 - Types of [[Ontological Emergence]]: [[Transformational Emergence]] and the more radical [[Fusion Emergence]]
