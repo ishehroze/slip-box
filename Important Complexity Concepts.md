@@ -81,6 +81,9 @@ Removing the perpendicular in favor of parallel : straightening
 - Types of [[Ontological Emergence]]: [[Transformational Emergence]] and the more radical [[Fusion Emergence]]
 - [[Immanuel Kant]] and [[Ibn Al Haytham]] overlap
 ---
+[[Ivette Fuentes]]
 
+---
+- We don't do anything that we don't strictly need
 - [[Purpose]] fuels [[Persistence]]
 
