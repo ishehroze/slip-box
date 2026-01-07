@@ -85,5 +85,6 @@ Removing the perpendicular in favor of parallel : straightening
 
 ---
 - We don't do anything that we don't strictly need
+- [[[Purpose]], [Lean]], [[Perfection]] 
 - [[Purpose]] fuels [[Persistence]]
 
