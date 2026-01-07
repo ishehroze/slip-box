@@ -7,6 +7,7 @@
 
 - [[Power law]] and the more frequent outliers ("Fat" Tail Behavior or the Black Swan)
 - [[Power law]] and [[Black swan]]
+- [[Power law]] and [[Persistence]]
 
 - [[Sigmoid curve]]
 
