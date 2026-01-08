@@ -1,6 +1,7 @@
 # Important Complexity Concepts
 
-- E-R-F vs. Q-R-N
+- [[E-R-F]] vs. [[N-K-R]]
+- [[E-R-F]] vs. [[Q-R-N]]
 
 - [[Feedback loop]] & Q-R-N
 - [[Positive reinforcement loop]]
@@ -94,7 +95,10 @@ Removing the perpendicular in favor of parallel : straightening
 - [[Purpose]] fuels [[Persistence]]
 ---
 - Near vs. Close
-- D-N-W vs. Q-R-B
+- [[Work]] and [[Deed]] as a form of interaction
+- [[Deed]] vs. [[Work]]
+- [[N-K-R]] vs. [[E-R-F]]
+- [[D-N-W]] vs. [[Q-R-B]]
 - [[Dunya]] and [[Perception]]
 - [[Diversity]] and overcoming limitations of [[Perception]]
 
