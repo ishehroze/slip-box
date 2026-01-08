@@ -1,5 +1,7 @@
 # Important Complexity Concepts
 
+- E-R-F vs. Q-R-N
+
 - [[Feedback loop]] & Q-R-N
 - [[Positive reinforcement loop]]
 
