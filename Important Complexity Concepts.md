@@ -101,4 +101,4 @@ Removing the perpendicular in favor of parallel : straightening
 - [[D-N-W]] vs. [[Q-R-B]]
 - [[Dunya]] and [[Perception]]
 - [[Diversity]] and overcoming limitations of [[Perception]]
-
+- [[Positive deviance]]
