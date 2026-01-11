@@ -1,0 +1,13 @@
+{
+  "name": "slip-box",
+  "version": "1.0.0",
+  "description": "Quartz-based zettelkasten",
+  "main": "index.js",
+  "scripts": {
+    "build": "quartz build",
+    "dev": "quartz dev"
+  },
+  "devDependencies": {
+    "quartz": "latest"
+  }
+}
