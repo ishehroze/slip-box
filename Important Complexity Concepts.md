@@ -46,7 +46,7 @@
 
 -------------------
 
-- Stuart Kauffman [[Adjacent possible]]
+- [[Stuart Kauffman]] [[Adjacent possible]] and the idea of [[Function]]
     - Functional closure
     - LIFE => collectively auto-catalyctic sets
     - crystal seeding and attractors
