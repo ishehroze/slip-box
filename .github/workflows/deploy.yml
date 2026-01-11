@@ -28,10 +28,10 @@ jobs:
           cache: 'npm'
       
       - name: Install Quartz
-        run: npx -y quartz@latest
+        run: npm install -g quartz@latest
       
       - name: Build site
-        run: npx quartz build
+        run: quartz build
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
