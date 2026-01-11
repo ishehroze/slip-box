@@ -5,7 +5,7 @@ const config: QuartzConfig = {
     pageTitle: "Slip Box",
     enableSPA: true,
     enablePopovers: true,
-    baseUrl: "ishehroze.github.io",
+    baseUrl: "ishehroze.github.io/slip-box",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "modified",
     theme: {
