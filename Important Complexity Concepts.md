@@ -51,6 +51,7 @@
     - LIFE => collectively auto-catalyctic sets
     - crystal seeding and attractors
     - can rule out [[Morphic resonance]]
+- [[Function]] as a form of [[Emergence]]
 
 ---
 
