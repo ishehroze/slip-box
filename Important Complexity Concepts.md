@@ -49,6 +49,8 @@
 - [[Stuart Kauffman]] [[Adjacent possible]] and the idea of [[Function]]
     - Functional closure
     - [[Constraint closure]]
+    - [[Potentia]]
+    - [[Ergodicity]]
     - LIFE => collectively auto-catalyctic sets
     - crystal seeding and attractors
     - can rule out [[Morphic resonance]]
