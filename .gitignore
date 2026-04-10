@@ -1,0 +1,19 @@
+# Obsidian Specifics
+.obsidian/workspace
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/cache/
+.trash/
+
+# Quartz / Node.js Specifics
+node_modules/
+public/
+.quartz-cache/
+.replit
+replit.nix
+tsconfig.tsbuildinfo
+
+# OS Specifics
+.DS_Store
+Thumbs.db
+
